@@ -1,0 +1,2 @@
+# Are-Unarmed-African-Americans-More-Likely-to-be-Killed-by-Police
+This is an independent study on if African Americans are disproportionately killed by police by status of being unarmed. Further, I have analyzed the number of unarmed and total African Americans killed per million and compared that to the number of White people killed per million. More information is available in the pdf document, R code, and Tableau Public link. https://public.tableau.com/profile/vincent.yabor#!/vizhome/ProportionofUnarmedPeopleKilledbyPolicebyRace/Dashboard1
